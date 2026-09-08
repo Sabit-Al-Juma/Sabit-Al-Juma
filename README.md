@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 🎓 CSE Undergraduate Student | Aspiring AI/ML Engineer
 
 💻 Currently learning:
-• Python, NumPy, Pandas & Scikit-learn
+• C++, Java, C#, SQL, Python, NumPy, Pandas & Scikit-learn
 • Machine Learning
 • AI/ML Engineering & LLMs
 • Algorithms & Data Structures
