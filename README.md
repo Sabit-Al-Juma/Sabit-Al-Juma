@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 -->
 👋 Hi, I'm Sabit Al Juma
 
-🎓 CSE Undergraduate Student | Aspiring AI/ML Engineer
+🎓 CSE Undergraduate Student (AIUB) | Aspiring AI/ML Engineer
 
 💻 Currently learning:
-  C++ | Java | C#, SQL | Python | NumPy | Pandas & Scikit-learn | Machine Learning | AI/ML Engineering & LLMs | Algorithms & Data Structures and Many More Things
+Python | NumPy | Pandas | Scikit-learn | Machine Learning | Deep Learning | LLMs
 
 🚀 Building projects, solving problems, and continuously improving my skills.
 
-📌 Currently focused on: Machine Learning → Deep Learning → LLMs → AI Engineering
+📌 Currently focused on:
+Machine Learning → Deep Learning → LLMs → AI Engineering
 
 💡 Learn. Build. Break. Improve. Repeat.
