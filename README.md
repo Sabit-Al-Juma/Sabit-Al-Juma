@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I'm Sabit Al Juma
+👋 Hi, I'm Sabit!
 
 🎓 CSE Undergraduate Student (AIUB) | Aspiring AI/ML Engineer
 
@@ -21,7 +21,7 @@ Python | NumPy | Pandas | Scikit-learn | Machine Learning | Deep Learning | LLMs
 
 🚀 Building projects, solving problems, and continuously improving my skills.
 
-📌 Currently focused on:
+📌 My focused on:
 Machine Learning → Deep Learning → LLMs → AI Engineering
 
 💡 Learn. Build. Break. Improve. Repeat.
