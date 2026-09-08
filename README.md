@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Sabit-Al-Juma/Sabit-Al-Juma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi, I'm Sabit Al Juma
+
+🎓 CSE Undergraduate Student | Aspiring AI/ML Engineer
+
+💻 Currently learning:
+• Python, NumPy, Pandas & Scikit-learn
+• Machine Learning
+• AI/ML Engineering & LLMs
+• Algorithms & Data Structures
+•And Many More Things
+
+🚀 Building projects, solving problems, and continuously improving my skills.
+
+📌 Currently focused on: Machine Learning → Deep Learning → LLMs → AI Engineering
+
+💡 Learn. Build. Break. Improve. Repeat.
